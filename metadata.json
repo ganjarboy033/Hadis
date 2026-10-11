@@ -1,0 +1,6 @@
+{
+  "name": "Hadits Arbain Komunitas",
+  "description": "Aplikasi Hadis Arbain Nawawi interaktif dengan 3 mode (Guru, Murid, Developer), chat E2EE, dasbor analitik, komunitas sekitar, dan terjemahan perkata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
